@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg" width="350"/>
+<img src="https://raw.githubusercontent.com/lenontmt/TMT-XMD-V2/main/tmt.jpg" width="350"/>
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@ TMT-XMD V2 - Professional WhatsApp Automation Bot with Multi Pairing Servers and
 
 [![Join Channel](https://img.shields.io/badge/Join-Channel-green?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb8iF2T7tkizg6TMWo3t)
 [![Join Group](https://img.shields.io/badge/Join-Group-blue?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/HohdSzZaw92CRO0Tp0JSLk)
+[![Contact Owner](https://img.shields.io/badge/Contact-Owner-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/263787400553)
 
 </p>
 
@@ -23,7 +24,7 @@ TMT-XMD V2 - Professional WhatsApp Automation Bot with Multi Pairing Servers and
 
 <p align="center">
 
-<a href="https://github.com/lenontmt/CypherX/fork">
+<a href="https://github.com/lenontmt/TMT-XMD-V2/fork">
 <img src="https://img.shields.io/badge/FORK%20REPOSITORY-gradient?style=for-the-badge&logo=github"/>
 </a>
 
@@ -152,7 +153,7 @@ https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
 
 <p align="center">
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/lenontmt/CypherX">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/lenontmt/TMT-XMD-V2">
 <img src="https://img.shields.io/badge/HEROKU-6762A6?style=for-the-badge&logo=heroku"/>
 </a>
 
@@ -180,6 +181,10 @@ https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
 <img src="https://img.shields.io/badge/WhatsApp-Group-25D366?style=for-the-badge&logo=whatsapp"/>
 </a>
 
+<a href="https://wa.me/263787400553">
+<img src="https://img.shields.io/badge/Contact-Owner-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
 </p>
 
 ---
@@ -187,11 +192,16 @@ https://youtu.be/lMheAzhjd24?si=8-vcXJLCrD0djKRB
 # 👨‍💻 Developer
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/236496610?s=240&v=7" width="120"/>
+<img src="https://raw.githubusercontent.com/lenontmt/TMT-XMD-V2/main/tmt.jpg" width="120"/>
 </p>
 
 <p align="center">
 TMT-XMD V2 Developer - TMT
+</p>
+
+<p align="center">
+📞 Owner: +263787400553<br>
+<a href="https://wa.me/263787400553">Chat on WhatsApp</a>
 </p>
 
 ---
