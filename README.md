@@ -76,7 +76,7 @@ TMT-XMD V2 - Professional WhatsApp Automation Bot with Multi Pairing Servers and
 
 <p align="center">
 
-<a href="https://pair.cypherxbot.space/download">
+<a href="https://pair.tmtxmdv2/download">
 <img src="https://img.shields.io/badge/DOWNLOAD%20BOT-00ff88?style=for-the-badge&logo=download"/>
 </a>
 
